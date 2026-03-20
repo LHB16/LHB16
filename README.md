@@ -45,7 +45,6 @@
 > Công cụ học tập tự động hóa bởi AI
 
 - **Tech stack:** Python · AI API
-- ⭐ 1 star
 
 ---
 
