@@ -82,13 +82,13 @@
 <div align="center">
 
 <a href="https://github.com/LHB16">
-  <img src="https://github-readme-stats-agi31j041-binhlhs-projects-2957251b.vercel.app/api?username=LHB16&theme=tokyonight&show_icons=true&cache_seconds=86400&v=3" alt="LHB16's GitHub stats" />
+  <img src="https://github-readme-stats-nine-psi-qwdwlpuy5v.vercel.app/api?username=LHB16&theme=tokyonight&show_icons=true&v=4#.svg" alt="LHB16's GitHub stats" />
 </a>
 
 <br/>
 
 <a href="https://github.com/LHB16">
-  <img src="https://github-readme-stats-agi31j041-binhlhs-projects-2957251b.vercel.app/api/top-langs/?username=LHB16&theme=tokyonight&layout=compact&cache_seconds=86400&v=3" alt="Top Langs" />
+  <img src="https://github-readme-stats-nine-psi-qwdwlpuy5v.vercel.app/api/top-langs/?username=LHB16&theme=tokyonight&layout=compact&v=4#.svg" alt="Top Langs" />
 </a>
 </div>
 
