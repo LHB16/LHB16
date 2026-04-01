@@ -81,9 +81,9 @@
 
 <div align="center">
 
-[![LHB16's GitHub stats](https://github-readme-stats-agi31j041-binhlhs-projects-2957251b.vercel.app/api?username=LHB16&theme=tokyonight&show_icons=true&v=1)](https://github.com/LHB16)
+[![LHB16's GitHub stats](https://github-readme-stats-agi31j041-binhlhs-projects-2957251b.vercel.app/api?username=LHB16&theme=tokyonight&show_icons=true&v=2)](https://github.com/LHB16)
 
-[![Top Langs](https://github-readme-stats-agi31j041-binhlhs-projects-2957251b.vercel.app/api/top-langs/?username=LHB16&theme=tokyonight&layout=compact&v=1)](https://github.com/LHB16)
+[![Top Langs](https://github-readme-stats-agi31j041-binhlhs-projects-2957251b.vercel.app/api/top-langs/?username=LHB16&theme=tokyonight&layout=compact&v=2)](https://github.com/LHB16)
 </div>
 
 ---
