@@ -88,6 +88,12 @@
 <br/>
 
 <a href="https://github.com/LHB16">
+  <img src="https://streak-stats.demolab.com/?user=LHB16&theme=tokyonight" alt="LHB16's Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/LHB16">
   <img src="https://github-readme-stats-nine-psi-qwdwlpuy5v.vercel.app/api/top-langs/?username=LHB16&theme=tokyonight&layout=compact&v=4#.svg" alt="Top Langs" />
 </a>
 </div>
