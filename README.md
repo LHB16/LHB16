@@ -41,7 +41,7 @@
 - **Tech stack:** Java · Swing · OOP
 - Thiết kế module hóa, logic game từ scratch
 
-### 🃏 Flashcard AI *(pinned)*
+### 🃏 ![Flashcard AI](https://github.com/LHB16/Flashcard-AI)
 > Công cụ học tập tự động hóa bởi AI
 
 - **Tech stack:** Python · AI API
