@@ -28,23 +28,23 @@
 
 ## 🚀 Dự án nổi bật
 
-### 🗑️ WasteVision
+### 🗑️ [WasteVision](https://github.com/LHB16/WasteVision-AI)
 > Smart waste bin tích hợp AI nhận diện rác
 
 - **Tech stack:** Python · Flask · YOLOv8 · ESP32 · OpenCV · Telegram Bot
 - 📊 Độ chính xác nhận diện: **~90%**
 - 🔗 IoT pipeline: ESP32 → Flask server → Telegram notification
 
-### 🎮 Pac-Man Java Swing
+### 🎮 [Pac-Man Java Swing](https://github.com/LHB16/CSD201_PacManGame_Group1)
 > Game cổ điển tái hiện bằng Java
 
 - **Tech stack:** Java · Swing · OOP
 - Thiết kế module hóa, logic game từ scratch
 
-### 🃏 ![Flashcard AI](https://github.com/LHB16/Flashcard-AI)
+### 🃏 [Flashcard AI](https://github.com/LHB16/Flashcard-AI)
 > Công cụ học tập tự động hóa bởi AI
 
-- **Tech stack:** Python · AI API
+- **Tech stack:** Python · AI API · .Net · React Native · React
 
 ---
 
