@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 Về mình
 
-- 🎓 Sinh viên năm 2 ngành **Kỹ thuật Phần mềm** — ĐH FPT Cần Thơ
+- 🎓 Sinh viên năm 3 ngành **Kỹ thuật Phần mềm** — ĐH FPT Cần Thơ
 - 🔭 Đang xây dựng: **Pipeline tự động đăng TikTok** (Python + Gemini API + edge-tts + MoviePy)
 - 🛠️ Dự án học thuật: **Ứng dụng web kiểu YouTube** với SQL Server / T-SQL
 - 🤖 Quan tâm đến: AI/Computer Vision, IoT, tự động hóa hệ thống
